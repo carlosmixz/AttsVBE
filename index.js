@@ -1,5 +1,1 @@
-<html>
-  <body>
-    <div>6.30<\div>
-  <\body>
-<\html>
+6.30
